@@ -1,4 +1,4 @@
-Source: cbpp-ui-theme
+Source: oxyos-ui-theme
 Section: x11
 Priority: extra
 Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
@@ -6,8 +6,8 @@ Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.5
 Homepage: https://crunchbangplusplus.org
 
-Package: cbpp-ui-theme
+Package: oxyos-ui-theme
 Architecture: all
 Depends: ${misc:Depends}, gtk2-engines-murrine
-Description: default theme for CrunchBangPlusPlus
- Default GTK+ and Openbox themes for CBPP.
+Description: default theme for OxyOS
+ Default GTK+ and Openbox themes for OxyOS.
